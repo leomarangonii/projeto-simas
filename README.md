@@ -21,15 +21,15 @@ Esta nova funcionalidade foi integrada na CPU para expandir suas capacidades ló
 Para uma explicação mais detalhada sobre o jogo desenvolvido e a nova funcionalidade, assista ao vídeo no seguinte link: https://youtu.be/cjTSLVhipbY.
 
 ### Integrantes
-Antônio Carlos de Almeida Micheli Neto
-Bruno Kazuya Yamato Sakaji
-Gabriel de Andrade Abreu
-Guilherme Antonio Costa Bandeira
-Isabela Beatriz Sousa Nunes Farias
-Jesus Sena Fernandes
-Julia Cavallio Orlando
-Leonardo Marangoni
-Leticia Raddatz Jönck
-Maria Rita Gomides Cruz Hott
+- Antônio Carlos de Almeida Micheli Neto
+- Bruno Kazuya Yamato Sakaji
+- Gabriel de Andrade Abreu
+- Guilherme Antonio Costa Bandeira
+- Isabela Beatriz Sousa Nunes Farias
+- Jesus Sena Fernandes
+- Julia Cavallio Orlando
+- Leonardo Marangoni
+- Leticia Raddatz Jönck
+- Maria Rita Gomides Cruz Hott
 
 Este projeto foi desenvolvido como parte da disciplina de Organização e Arquitetura de Computadores, visando a aplicação prática dos conceitos aprendidos em sala de aula.
