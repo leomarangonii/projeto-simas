@@ -15,6 +15,7 @@ Implementamos a funcionalidade NAND no processador. A operação NAND (Not AND) 
 |     0     |     1     |        1         |
 |     1     |     0     |        1         |
 |     1     |     1     |        0         |
+
 Esta nova funcionalidade foi integrada na CPU para expandir suas capacidades lógicas.
 
 ### Vídeo Explicativo
